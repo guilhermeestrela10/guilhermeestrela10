@@ -1,8 +1,8 @@
 # Guilherme Estrela
 
-**Engenharia de Software · Java · Python · Bancos de dados**
+**Java · Python · Bancos de dados · Desenvolvimento web**
 
-Sou estudante de Engenharia de Software no UNIFSA. Desenvolvo projetos web, aplicações Java e análises de dados, com foco em regras de negócio, persistência e documentação clara.
+Desenvolvo projetos web, aplicações Java e análises de dados, com foco em regras de negócio, persistência e documentação clara.
 
 ## Projetos em destaque
 
@@ -20,7 +20,7 @@ Sistema de farmácia com estoque por lote e validade, saída FEFO, vendas, estor
 
 ### [Olist — análise exploratória](https://github.com/guilhermeestrela10/projeto-analise-exploratoria-ciencia-de-dados)
 
-Projeto acadêmico em grupo sobre vendedores parceiros, atrasos e avaliações. Inclui pipeline de dados, painel Streamlit, relatórios, limites metodológicos e registro do uso de IA. Minha responsabilidade declarada abrange o painel e a documentação integrada.
+Análise colaborativa sobre vendedores parceiros, atrasos e avaliações. Inclui pipeline de dados, painel Streamlit, relatórios, limites metodológicos e registro do uso de IA. Minha contribuição declarada abrange o painel e a documentação integrada.
 
 [Painel](https://wuevyectn67rbfng9xqssx.streamlit.app/) · [Código e metodologia](https://github.com/guilhermeestrela10/projeto-analise-exploratoria-ciencia-de-dados)
 
@@ -30,8 +30,7 @@ Projeto acadêmico em grupo sobre vendedores parceiros, atrasos e avaliações. 
 | --- | --- | --- |
 | [Loja com Flask e PostgreSQL](https://github.com/guilhermeestrela10/loja-flask-postgresql) | Vendas, estoque e regras no banco | Python, Flask, SQL |
 | [Sistema de contas bancárias](https://github.com/guilhermeestrela10/sistema-conta-bancaria) | Herança, interfaces e exceções | Java |
-| [Nutrimind — persistência](https://github.com/guilhermeestrela10/nutrimind-desktop) | Módulo parcial de acesso a dados | Java, SQLite, DAO |
-| [Cadastro de alunos](https://github.com/guilhermeestrela10/supabase-alunos) | Integração web com banco em nuvem | HTML, JavaScript, Supabase |
+| [Nutrimind — persistência](https://github.com/guilhermeestrela10/nutrimind-persistence) | Módulo parcial de acesso a dados | Java, SQLite, DAO |
 
 ## Tecnologias em prática
 
@@ -40,4 +39,4 @@ Projeto acadêmico em grupo sobre vendedores parceiros, atrasos e avaliações. 
 - **Interface:** HTML, CSS e JavaScript.
 - **Qualidade:** Git, GitHub Actions, testes automatizados e documentação de limitações.
 
-Os repositórios distinguem demonstrações, módulos parciais e projetos acadêmicos. O catálogo inclui somente projetos públicos; autoria e contribuições em grupo são documentadas em cada entrega.
+Os repositórios distinguem demonstrações, módulos parciais e aplicações. O catálogo inclui somente projetos públicos; autoria e contribuições em grupo são documentadas em cada entrega.
